@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a Student
 
-- 🌱 I’m currently improving my **C# and Java Skills** Skills
+- 🌱 I’m currently improving my **C# and Java Skills**
 
 - 📫 How to reach me **admin@prigz.de**
 
